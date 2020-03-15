@@ -6,4 +6,4 @@
 
 <h3>Final Output</h3>
 
-<img src="https://suelenduarte.github.io/CalorieCalculator/images/calculator.png" width = 600 height = 400> 
+<img src="https://suelenduarte.github.io/CalorieCalculator/images/calculator.PNG" width = 600 height = 400> 

@@ -1,8 +1,8 @@
-<h1>CalorieCalculator</h1>
+<h1>Calorie Calculator</h1>
 
-<p>This project holds employee information from 3 professions.</p>
+<p>This project calculates the basal metabolic rate (the amount of energy that you spend at rest), the activity level metabolic rate, and body fat percentage.</p>
 
-<p>It shows the employee name, employee number, hired date, the hourly rate or salary, shift, and monthly or yearly bonus.</>
+<p>All the user information is saved into the SQL database.</>
 
 <h3>Final Output</h3>
 
